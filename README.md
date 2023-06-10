@@ -6,10 +6,10 @@ The job title “Mac Administrator” or any role administering Apple products d
 What led us here?
 
 ## Add more events
-Review the [Wiki](wiki) for information about contributing to this project.
+Review the [Wiki](../../wiki) for information about contributing to this project.
 
 ## Suggest more events
-Create an [Issue](issues) to suggest adding an event. Be sure to include helpful information such as:
+Create an [Issue](../../issues) to suggest adding an event. Be sure to include helpful information such as:
 
 * Event name
 * Event date (including month, date, and year)
