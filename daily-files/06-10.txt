@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+    <event id="1">
+        <name>First Apple II shipped</name>
+        <year>1977</year>
+        <description>Retailing at $1,298, the Apple II was the machine that turned Apple into a million-dollar company. It shipped just six months after Apple's founding. Two years later Apple would be worth nearly 50 million dollars. Apple continued selling the Apple II until 1993, shipping between 5 million and 6 million computers.</description>
+        <references>
+            <reference id="1">https://en.wikipedia.org/wiki/Apple_II</reference>
+            <reference id="2">https://www.computerhistory.org/tdih/June/10/</reference>
+        </references>
+    </event>
+    <event id="2">
+        <name>Jamf's birthday</name>
+        <year>2002</year>
+        <description>Zach Halmstad founded Jamf in 2002, driven by his experience as a student and IT professional at the University of Wisconsin – Eau Claire. There, he noted the absence of technologies to manage hundreds of Mac computers and knew he could solve the problem for universities and any organization utilizing Mac devices. In 2003, he was joined by Chip Pearson and together they built Jamf with a mission to help organizations of all sizes to succeed with the Apple platform.</description>
+        <references>
+            <reference id="1">https://www.linkedin.com/posts/dean-hager-26b4681a_we-owe-them-so-much-the-first-five-jamf-activity-6942520577081450498-i-pj?trk=public_profile_like_view</reference>
+            <reference id="2">https://interests.summitpartners.com/summit-stories-jamf-ipo/</reference>
+        </references>
+    </event>
+</events>

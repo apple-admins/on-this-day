@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+    <event id="1">
+        <name>Apple Computer, Inc. is incorporated</name>
+        <year>1977</year>
+        <description>Steven Jobs and Stephen Wozniak incorporate Apple Computer, Inc. less than a year after its foundation. Just six months later they released the Apple II computer, which made Apple a million-dollar company.</description>
+        <references>
+            <reference id="1">https://www.computerhistory.org/tdih/January/3/</reference>
+            <reference id="1">https://en.wikipedia.org/wiki/Apple_Inc.#History</reference>
+        </references>
+    </event>
+</events>
