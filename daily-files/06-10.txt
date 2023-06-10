@@ -10,7 +10,7 @@
         </references>
     </event>
     <event id="2">
-        <name>Jamf's birthday</name>
+        <name>Jamf’s birthday</name>
         <year>2002</year>
         <description>Zach Halmstad founded Jamf in 2002, driven by his experience as a student and IT professional at the University of Wisconsin – Eau Claire. There, he noted the absence of technologies to manage hundreds of Mac computers and knew he could solve the problem for universities and any organization utilizing Mac devices. In 2003, he was joined by Chip Pearson and together they built Jamf with a mission to help organizations of all sizes to succeed with the Apple platform.</description>
         <references>
