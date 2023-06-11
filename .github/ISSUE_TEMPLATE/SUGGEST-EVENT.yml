@@ -1,5 +1,6 @@
 name: Add Event
 description: Suggest an event to add to Apple admins "On this day…"
+title: Add Event
 labels: ["new"]
 assignees:
   - talkingmoose
@@ -39,3 +40,15 @@ body:
       placeholder: https://www.computerhistory.org/tdih/february/24/
     validations:
       required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Name
+    validations:
+      required: false
+  - type: input
+    id: email
+    attributes:
+      label: Email address
+    validations:
+      required: false
