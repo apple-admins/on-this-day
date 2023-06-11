@@ -5,7 +5,7 @@ The job title “Mac Administrator” or any role administering Apple products d
 
 What led us here?
 
-## Add more events
+## Contribute events to this project
 Review the [Wiki](../../wiki) for information about contributing to this project.
 
 ## Suggest more events
