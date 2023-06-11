@@ -9,8 +9,4 @@ What led us here?
 Review the [Wiki](../../wiki) for information about contributing to this project.
 
 ## Suggest more events
-Create an [Issue](../../issues) to suggest adding an event. Be sure to include helpful information such as:
-
-* Event name
-* Event date (including month, date, and year)
-* Recommended online references for computer file paths
+Create an [Issue](../../issues) to suggest adding or correcting an event.
