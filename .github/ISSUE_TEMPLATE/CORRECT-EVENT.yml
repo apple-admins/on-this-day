@@ -1,0 +1,46 @@
+name: Correction
+description: Suggest a correction to an existing event
+title: Correction
+labels: ["new"]
+assignees:
+  - talkingmoose
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggest a correction to an existing event.
+  - type: input
+    id: url
+    attributes:
+      label: URL to daily file
+      placeholder: ex. https://github.com/apple-admins/on-this-day/blob/main/daily-files/06-10.txt
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Event Name
+      description: Event name needing correction
+      placeholder: First Apple II shipped
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Correction
+      description: Recommend a correction to the event information.
+      placeholder: Change event description to say Steve Jobs was born in 1955 not 1956.
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Name
+    validations:
+      required: false
+  - type: input
+    id: email
+    attributes:
+      label: Email address
+    validations:
+      required: false
