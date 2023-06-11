@@ -1,0 +1,42 @@
+name: Add Event
+description: Suggest an event to add to Apple admins "On this day…"
+title: "[Add Event]: "
+labels: ["new"]
+assignees:
+  - talkingmoose
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggest an event to add to Apple admins "On This Day…"
+  - type: input
+    id: name
+    attributes:
+      label: Event Name
+      placeholder: ex. Steve Jobs’ birthday
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Event Date
+      description: Include year, month, and day
+      placeholder: ex. 1955-02-24
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Recommend a short paragraph to describe the event.
+      placeholder: Steve Jobs was a college dropout who founded Apple Computer, Inc., with Steve Wozniak in 1976. Together, they launched the Apple I, revolutionizing the personal computer. Jobs was later ousted from Apple only to return as iCEO in 1997. His vision and leadership inspired breakthroughs in personal computing including the Macintosh, iPod, iPhone, and iPad. He died of complications from pancreatic cancer on October 5, 2011, at 56.
+    validations:
+      required: false
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Provide at least one link to an online source for validation.
+      placeholder: https://www.computerhistory.org/tdih/february/24/
+    validations:
+      required: true
