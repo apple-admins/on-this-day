@@ -1,6 +1,5 @@
 name: Add Event
 description: Suggest an event to add to Apple admins "On this day…"
-title: "[Add Event]: "
 labels: ["new"]
 assignees:
   - talkingmoose
