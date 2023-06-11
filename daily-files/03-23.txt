@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+    <event>
+        <name>MacAdmins.org Podcast goes live</name>
+        <year>2016</year>
+        <description>Originated by Tom Bridge, Emily Kausalik, Charles Edge, and Adam Codega, the first MacAdmins.org Podcast goes live, billing itself as a podcast for Mac admins by Mac admins! The aptly-named podcast features a rotating panel of Mac admins and consultants joined by members of the Mac admin community to discuss the latest news, issues, and challenges of managing Apple devices.</description>
+        <references>
+            <reference>https://podcast.macadmins.org/2016/03/</reference>
+        </references>
+    </event>
+</events>

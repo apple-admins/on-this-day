@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <events>
-    <event id="1">
+    <event>
         <name>Apple Computer founded</name>
         <year>1976</year>
         <description>Apple Computer was founded by college dropouts Steve Jobs and Steve Wozniak along with Ronald Wayne, who wanted to make computers small enough for people to have them in their homes or offices and user-friendly. They produced the Apple I in Jobs’ garage and sold it without a monitor, keyboard, or casing. The Apple II revolutionized the computer industry with a case and the introduction of color graphics.</description>
         <references>
-            <reference id="1">https://guides.loc.gov/this-month-in-business-history/april/apple-computer-founded</reference>
-            <reference id="2">https://en.wikipedia.org/wiki/Apple_Inc.#History</reference>
+            <reference>https://guides.loc.gov/this-month-in-business-history/april/apple-computer-founded</reference>
+            <reference>https://en.wikipedia.org/wiki/Apple_Inc.#History</reference>
         </references>
     </event>
 </events>
