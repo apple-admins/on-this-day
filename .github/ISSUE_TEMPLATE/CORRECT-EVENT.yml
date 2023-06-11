@@ -29,7 +29,7 @@ body:
     attributes:
       label: Correction
       description: Recommend a correction to the event information.
-      placeholder: Change event description to say Steve Jobs was born in 1955 not 1956.
+      placeholder: Change event description to refer to "Apple II" not "Apple 2".
     validations:
       required: true
   - type: input
